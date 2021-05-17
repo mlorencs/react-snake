@@ -1,0 +1,9 @@
+{
+    "title": "React Snake Game",
+    "highestScoreLabel": "Highest Score",
+    "lastScoreLabel": "Last Score",
+    "currentScoreLabel": "Current Score",
+    "startGame": "Start Game",
+    "inProgress": "In Progress",
+    "restartGame": "Game Over - Restart Game"
+}
