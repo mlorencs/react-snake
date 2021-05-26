@@ -1,6 +1,6 @@
 # React Snake Game
 
-This is a 2D Snake Game.
+This is a very simple React project. There's probably many ways to optimize and improve this project, but I have created it by using my own logic. This project is a 2D Snake Game. This project is an improvement from my previous 2D Snake Game built on Angular. Issue with snake's movement that resulted in snake eating itself by chaning directions too quickly has been fixed. Snake's speed also has been implementated in to the game where speed currently caps at 80 (1.7 seconds).
 
 <br />
 
